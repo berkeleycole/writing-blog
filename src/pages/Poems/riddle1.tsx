@@ -11,7 +11,7 @@ const Riddle1 = (): ReactElement => {
         one wing stretching ever star-ward<br />
         the shorter straining for the depths<br />
         and with these wings I roam far and wide<br />
-        no one can go further.<br />
+        no one can go further<br />
       </div>
     </div>
   )

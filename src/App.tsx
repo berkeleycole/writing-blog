@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom"
 
 import Home from './pages/Home'
 import NightSky from './pages/poetry/NightSky'
-import Riddle1 from './pages/poetry/Riddle1'
+import Riddle1 from './pages/poetry/RiddleOne'
 import Coventry from './pages/poetry/Coventry'
 
 const App = (): ReactElement => {

@@ -23,6 +23,7 @@ const NightSky = (): ReactElement => {
         immersed<br />
         in this thick night sky<br />
         and who says we will ever come back?<br />
+        we'll make new figures in the stars
       </div>
     </div>
   )

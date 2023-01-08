@@ -22,12 +22,18 @@ const Coventry = (): ReactElement => {
         <span style={{marginLeft: '15px'}}></span>imbue us with the miracle<br />
         <span style={{marginLeft: '15px'}}></span>reconciliation that we seek.<br />
         Blessed ruin<br />
-        <span style={{marginLeft: '15px'}}></span>cross at your heart<br />
+        <span style={{marginLeft: '15px'}}></span>charred cross at heart<br />
         <span style={{marginLeft: '15px'}}></span>you kneel and ever faceless cry<br />
         <span style={{marginLeft: '15px'}}></span>the tears our hatred cannot shed<br />
         <span style={{marginLeft: '15px'}}></span>burnt beams voiceless raise our plea<br />
         <span style={{marginLeft: '15px'}}></span>for a divine humanity.<br />
+        Father Forgive<br />
       </div>
+
+      <p>-- first trip to Coventry summer 2011</p>
+      <a href="https://heritagecalling.com/2019/08/14/the-destruction-and-rebirth-of-coventry-cathedral/">
+        Coventry Cathedral story by heritagecalling
+      </a>
     </div>
   )
 }

@@ -2,9 +2,9 @@ import { ReactElement } from 'react'
 import { Routes, Route } from "react-router-dom"
 
 import Home from './pages/Home'
-import NightSky from './pages/poems/NightSky'
-import Riddle1 from './pages/poems/Riddle1'
-import Coventry from './pages/poems/Coventry'
+import NightSky from './pages/poetry/NightSky'
+import Riddle1 from './pages/poetry/RiddleOne'
+import Coventry from './pages/poetry/Coventry'
 
 const App = (): ReactElement => {
   return (

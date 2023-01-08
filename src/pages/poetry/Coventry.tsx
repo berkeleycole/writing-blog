@@ -9,7 +9,9 @@ const Coventry = (): ReactElement => {
         Bombarded walls and shattered glass<br />
         Martyred place of worship<br />
         <span style={{marginLeft: '15px'}}></span>your remnants share a gospel<br />
-        <span style={{marginLeft: '15px'}}></span>no bell nor steeple ever told.<br />
+        <span style={{marginLeft: '15px'}}></span>no bell nor steeple ever told<br />
+        <span style={{marginLeft: '15px'}}></span>empty windows yet portray<br />
+        <span style={{marginLeft: '15px'}}></span>the heart of God to all.<br />
         Humbled cathedral<br />
         <span style={{marginLeft: '15px'}}></span>famous not for stone or art<br />
         <span style={{marginLeft: '15px'}}></span>but for testimony<br />
@@ -30,7 +32,7 @@ const Coventry = (): ReactElement => {
         Father Forgive<br />
       </div>
 
-      <p>-- first trip to Coventry summer 2011</p>
+      <p>-- drafted on my first trip to Coventry summer 2011, edited Jan 7, 2023</p>
       <a href="https://heritagecalling.com/2019/08/14/the-destruction-and-rebirth-of-coventry-cathedral/">
         Coventry Cathedral story by heritagecalling
       </a>

@@ -18,13 +18,15 @@ const NightSky = (): ReactElement => {
         we would rub it on our faces<br />
         over every inch<br />
         it leaves a tingle of eternity<br />
-        as bare skin meets horizonless dark<br />
+        bare skin meeting horizonless dark<br />
         we were covered<br />
         immersed<br />
         in this thick night sky<br />
         and who says we will ever come back?<br />
-        we'll make new figures in the stars
+        we'll make new figures in the stars<br />
       </div>
+
+      <p>-- Drafted 2009 Inspired by the night sky over Klamath Falls, Oregon and Natalie Hoy, edited Jan 7 2023</p>
     </div>
   )
 }

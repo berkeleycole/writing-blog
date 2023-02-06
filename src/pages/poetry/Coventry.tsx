@@ -33,7 +33,7 @@ const Coventry = (): ReactElement => {
       </div>
 
       <p>-- drafted on my first trip to Coventry summer 2011, edited Jan 7, 2023</p>
-      <a href="https://heritagecalling.com/2019/08/14/the-destruction-and-rebirth-of-coventry-cathedral/">
+      <a href="https://heritagecalling.com/2019/08/14/the-destruction-and-rebirth-of-coventry-cathedral/" target="_blank">
         Coventry Cathedral story by heritagecalling
       </a>
     </div>
